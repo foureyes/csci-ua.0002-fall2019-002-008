@@ -44,7 +44,7 @@ Jump to Class:
 <a name="class1"></a><!---------- start --------------->
 
 <section markdown="block">
-###  TUE 1/29, Class #1
+###  TUE 1/28, Class #1
 
 <div class="class-details">
 <article class="topics" markdown="block">
@@ -62,7 +62,7 @@ Jump to Class:
 <a name="class2"></a><!---------- start --------------->
 
 <section markdown="block">
-###  THU 1/31, Class #2
+###  THU 1/30, Class #2
 
 <div class="class-details">
 <article class="topics" markdown="block">
