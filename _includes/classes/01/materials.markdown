@@ -26,7 +26,7 @@ Readings
 
 * Read {{ site.bookq }} - Chapter 1
 
-Assignments __Due Thursday, 1/30, before class (9:30am)__
+Assignments __Due Thursday, 1/31, before class (9:30am)__
 
 * Complete the [Self Paced-Learning Module #1]({{ site.module1 }})
 * Take quiz #1 on NYU Classes 
