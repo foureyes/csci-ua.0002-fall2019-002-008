@@ -40,9 +40,6 @@ Module, Quiz and Readings __Due Tuesday, Feb 5th, before class (9:30am)__
 
 Homework #1 __Due Wednesday, Feb 6th, at 11PM__ 
 
-(To be posted)
-
-{% comment %}
 (Submit via NYU Classes)
 
 1. [mad_libs_lyrics.py](homework/hw01/mad_libs_lyrics.py)
@@ -70,7 +67,6 @@ Example output for tree.py:
    ||
 </pre>
 <!--_-->
-{% endcomment %}
 </article>
 
 
