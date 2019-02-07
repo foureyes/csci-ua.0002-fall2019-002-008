@@ -1,33 +1,30 @@
 <article class="due" markdown="block">
 ####  Due Today
 
-Homework #01
+Homework #01 (yesterday, really)
 
 </article>
 
 <article class="slides" markdown="block">
 ####  Slides
 
+[Tutoring](https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-003/common_syllabus/#tutoring)
+
 Warm-up
 
-* multiple string operations in a single expression
-    * _len()_ function (not necessary for homework)
-	* demo: state and city (multiple inputs, use input in next input)
+* demo: state and city (multiple inputs, use input in next input)
 * review formatting again
 	* formatting a %
     * formatting decimal places
     * length of string
-	* aligning everything right
-	* aligning everything left
+	* alignment
 	* set padding character
-    * the argument given is a string! (try passing in a variable)
+    * format spec is a string! (try passing in a variable)
     * demo: how wide do you want this formatted?
 	* demo: combine with multiple inputs (how wide, what char)
     * it returns a string, which leads us to...
-* review print
-    * print a formatted string with other strings
-    * note that print doesn't care about type
-* demo homework programs
+* print a formatted string with other strings
+* demo homework
 </article>
 
 <article class="assignments" markdown="block">
