@@ -12,14 +12,17 @@ Warm-up
 
 * multiple string operations in a single expression
     * _len()_ function (not necessary for homework)
+	* demo: state and city (multiple inputs, use input in next input)
 * review formatting again
 	* formatting a %
     * formatting decimal places
     * length of string
 	* aligning everything right
 	* aligning everything left
+	* set padding character
     * the argument given is a string! (try passing in a variable)
-    * interactive program - how do you want me to format this...
+    * demo: how wide do you want this formatted?
+	* demo: combine with multiple inputs (how wide, what char)
     * it returns a string, which leads us to...
 * review print
     * print a formatted string with other strings
@@ -30,7 +33,7 @@ Warm-up
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #2 __Due Wednesday, February 7th, at 11PM__ 
+Homework #2 __Due Wednesday, February 13th, at 11PM__ 
 
 * we'll do go over potential solutions to multiply together!
 * for the remainder of the homework
