@@ -8,11 +8,11 @@ Homework #01 (yesterday, really)
 <article class="slides" markdown="block">
 ####  Slides
 
-[Tutoring](https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-003/common_syllabus/#tutoring)
 
 Warm-up
 
-* demo: state and city (multiple inputs, use input in next input)
+* [tutoring](https://cs.nyu.edu/courses/spring19/CSCI-UA.0002-003/common_syllabus/#tutoring)
+* __demo:__ state and city (multiple inputs, use input in next input)
 * review formatting again
 	* formatting a %
     * formatting decimal places
@@ -20,11 +20,11 @@ Warm-up
 	* alignment
 	* set padding character
     * format spec is a string! (try passing in a variable)
-    * demo: how wide do you want this formatted?
-	* demo: combine with multiple inputs (how wide, what char)
+    * __demo:__ how wide do you want this formatted?
+	* __demo:__ combine with multiple inputs (how wide, what char)
     * it returns a string, which leads us to...
 * print a formatted string with other strings
-* demo homework
+* __demo:__ homework
 </article>
 
 <article class="assignments" markdown="block">
