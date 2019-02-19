@@ -25,7 +25,7 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Module, Quiz and Readings __Due Tuesday, Feb 19th, 9AM__
+Module, Quiz and Readings Due <strike>Tuesday, Feb 19th</strike>, Thursday, Feb 21st, 9AM__
 
 * Complete the [Self Paced-Learning Module #4]({{ site.module4 }})
 * Take quiz #4 on NYU Classes
