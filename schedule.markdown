@@ -230,7 +230,7 @@ Jump to Class:
 * Testing
 * Scope
 * Strings
-</article>{% comment %}{% include classes/13/materials.markdown %}{% endcomment %}</div> </section> 
+</article>{% include classes/13/materials.markdown %}</div> </section> 
 
 
 <a name="class14"></a><!---------- start --------------->
