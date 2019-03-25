@@ -33,15 +33,13 @@ Homework #5 __Due Wednesday, March 27th, at 11PM__
 4. [analyze_numbers.py](homework/hw05/analyze_numbers.py)
 5. [slashes.py](homework/hw05/slashes.py)
 
-{% comment %}
 
 
-Module #7 __Due Wednesday, Nov 2nd, before class__
+Module #7 __Due Wednesday, March 27th before class__
 
 * Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
 * Take quiz #7 on NYU Classes
 
-{% endcomment %}
 
 <!--
 Readings

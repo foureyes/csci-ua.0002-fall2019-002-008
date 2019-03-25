@@ -33,9 +33,12 @@ Readings
 
 Quizzes
 
+{% comment %}
 * Complete the [Self Paced-Learning Module #7]({{ site.module7 }})
+{% endcomment %}
+
 * Complete the [Self Paced-Learning Module #8]({{ site.module8 }})
-* Take quiz #7 and #8 in NYU Classes 
+* Take quiz #8 in NYU Classes 
 
 
 <!--
