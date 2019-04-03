@@ -17,17 +17,12 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-<strike>Homework #7 Due Monday, April 2nd, at 11PM</strike>
-<strike>(Late submissions allowed up through the morning of April 3rd, 9AM)</strike>
-
-Homework #7 - Due Date Changed
-
-__Monday, April 9th, at 11PM__ 
+Homework #7 - __Due Tuesday, April 16th, at 11PM__ 
 
 
+* [fortune_improved.py](homework/hw07/fortune_improved.py)
 * [warm_up.py](homework/hw07/warm_up.py)
 * [animal_functions.py](homework/hw07/animal_functions.py)
-* [fortune_improved.py](homework/hw07/fortune_improved.py)
 
 <!--
 Readings
