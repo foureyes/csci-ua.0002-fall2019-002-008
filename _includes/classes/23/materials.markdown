@@ -28,8 +28,16 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
+Module #9 __Due Thursday, April 25th, at 9am__
+
+* Complete the [Self Paced-Learning Module #9]({{ site.module9 }})
+* Take quiz #9 on NYU Classes
+
+{% comment %}
 Module #10 __Due Tuesday, April 24th, at 9am__
 
 * Complete the [Self Paced-Learning Module #10]({{ site.module10 }})
 * Take quiz #10 on NYU Classes
+{% endcomment %}
+
 </article>
