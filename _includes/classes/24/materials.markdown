@@ -13,7 +13,7 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #9 __Due Wednesday, April 25th, at 11PM__ 
+Homework #9 __Due Wednesday, May 1st, at 11PM__ 
 
 * [nba.py](homework/hw09/nba.py)
 * [wordsy.py](homework/hw09/wordsy.py)
