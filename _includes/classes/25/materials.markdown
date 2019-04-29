@@ -1,7 +1,10 @@
 <article class="due" markdown="block">
-####  Due Next Tuesday
+####  Due Thursday Morning
 
 * Module #10 and Quiz #10
+
+####  Due Next Tuesday
+
 * Module #11 and Quiz #11
 
 </article>
