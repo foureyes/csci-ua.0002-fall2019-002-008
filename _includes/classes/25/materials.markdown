@@ -7,6 +7,8 @@
 
 * Module #11 and Quiz #11
 
+(access the modules via links on [the modules home page](https://cs.nyu.edu/elearning/CSCI_UA_0002/))
+
 </article>
 
 <article class="slides" markdown="block">

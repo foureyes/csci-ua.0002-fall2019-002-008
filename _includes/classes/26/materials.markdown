@@ -16,7 +16,7 @@
 <article class="assignments" markdown="block">
 ####  Assignments / Readings		
 
-Homework #10 and Extra Credit __Due Wednesday, May 2nd, at 11PM__ 
+Homework #10 and Extra Credit __Due Wednesday, May 8th, at 11PM__ 
 
 * [lousy_plasma instructions](homework/hw10/lousy-plasma.html)
 * [lousy_plasma.py download](homework/hw10/lousy_plasma.py)
@@ -28,7 +28,7 @@ Resources for Homework #10
 
 __Extra Credit__ (counts towards lower exam score): [cards.py](homework/hw10/cards.py)
 
-Each function is worth 1.5 points, with 3 functions to write.
+Each function is worth 1 point, with 3 functions to write.
 
 
 </article>
