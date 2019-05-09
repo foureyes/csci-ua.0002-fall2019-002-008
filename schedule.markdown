@@ -442,7 +442,7 @@ Jump to Class:
 ####  Topics
 
 * Review Session for Final Exam
-</article>{% comment %} {% comment %}{% comment %}{% include classes/28/materials.markdown %}{% endcomment %} {% endcomment %}{% endcomment %}</div> </section> 
+</article>{% include classes/28/materials.markdown %}</div> </section> 
 
 
 <a name="final"></a><!---------- start --------------->

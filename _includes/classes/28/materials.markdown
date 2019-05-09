@@ -1,4 +1,3 @@
-{% comment %}  
 <article class="due" markdown="block">
 ####  Due Today
 
@@ -9,6 +8,15 @@
 <article class="slides" markdown="block">
 ####  Slides
 
+* dictionaries 
+* mixed types 
+	* tuples in lists
+	* lists in dictionaries
+	* etc.
+* iteration with indexes
+	* enumerate
+
+{% comment %}
 __Final Exam__
 
 * __date:__ {{ site.final_date }}
@@ -133,6 +141,7 @@ Modules
 * [Chapter 14 List Algorithms](http://www.openbookproject.net/thinkcs/python/english3e/list_algorithms.html)
 * [Chapter 19 Exceptions](http://www.openbookproject.net/thinkcs/python/english3e/exceptions.html)
 * [Chapter 20 Dictionaries](http://www.openbookproject.net/thinkcs/python/english3e/dictionaries.html)
+{% endcomment %}
 
 </article>
 
@@ -140,4 +149,3 @@ Modules
 ####  Assignments / Readings		
 
 </article>
-{% endcomment %}
