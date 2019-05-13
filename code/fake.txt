@@ -1,0 +1,3 @@
+difficult,hard,tough
+tasty,delicious
+yes,yeah,ok,right
